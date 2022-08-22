@@ -1,0 +1,9 @@
+[title~=Abhira] {
+color:pink;
+border:2px solid green;}
+[top|=top] {
+background-color:purple;
+border:2px solid green;}
+}
+div > h1 {
+background-color:yellow;}

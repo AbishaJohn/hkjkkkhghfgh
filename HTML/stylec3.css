@@ -1,0 +1,20 @@
+span {
+color:orange;
+border:1px solid black;}
+.extra span {
+color:inherit;
+border:1px solid black;
+}
+div {
+color:red;
+border:1px solid blue;}
+h1 {
+color:initial;}
+.parent {
+color:orange;
+}
+.p {
+color:red;}
+.child {
+color:red;
+}

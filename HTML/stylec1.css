@@ -1,0 +1,28 @@
+p.first 
+{
+font-family:"serif";
+color:#fff000;
+text-align:center;
+text-transform:lowercase;
+text-decoration:overline;
+text-indent:50px;
+font-size:20;
+}
+p.second {
+color:#000fff;
+text-align:right;
+text-transform:uppercase;
+text-decoration:line-through;
+font-style:oblique;
+font-family:"Times New Roman";
+font-size:30;
+}
+p.Third {
+color:rgb(255,255,0);
+text-transform:capitalize;
+text-decoration:underline;
+text-align:justify;}
+
+a:hover{color:red;background-color:orange;font-size:10;}
+a:active{color:green;background-color:black;}
+a:visited{color:yellow;background-color:purple;}
